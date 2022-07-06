@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @SE08123
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+SE08123/SE08123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+
+<iframe src=https://www.ycs.or.kr/yeyak/rest/facilities/place_time_state_list?company_code=YCS04&part_code=02&place_code=11&base_date=20220710"> </iframe>
